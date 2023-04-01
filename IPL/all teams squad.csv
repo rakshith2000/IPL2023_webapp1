@@ -1,0 +1,244 @@
+Player_ID,Name,Team,Captain,Keeper,Overseas,Role,Batting Style,Bowling Style,Nationality,DOB
+1,MS Dhoni,CSK,Y,Y,N,Wicketkeeper Batter,Right-handed,Right-arm Medium,Indian,07/07/1981
+2,Devon Conway,CSK,N,N,Y,WK-Batsman,Left-handed,Right-arm Medium,South African,08/07/1991
+3,Ruturaj Gaikwad,CSK,N,N,N,Batter,Right-handed,NA,Indian,31/01/1997
+4,Subhranshu Senapati,CSK,N,N,N,Batter,Left-handed,Right-arm Medium,Indian,30/12/1996
+5,Ambati Rayudu,CSK,N,N,N,Wicketkeeper Batter,Right-handed,Right-arm Off-spin,Indian,23/09/1985
+6,Ravindra Jadeja,CSK,N,N,N,All-rounder,Left-handed,Left-arm Orthodox Spin,Indian,06/12/1988
+7,Dwaine Pretorius,CSK,N,N,Y,Bowling Allrounder,Left-handed,Right-arm Fast-medium,South African,29/03/1989
+8,Mitchell Santner,CSK,N,N,Y,Bowling all-rounder,Left-handed,Left-arm Orthodox,New Zealander,05/02/1992
+9,K Bhagath Varma,CSK,N,N,N,All-rounder,Right-handed,Right-arm Offbreak,Indian,21/09/1998
+10,Moeen Ali,CSK,N,N,Y,Batting all-rounder,Left-handed,Right-arm Offbreak,English,18/06/1987
+11,Rajvardhan Hangargekar,CSK,N,N,N,Bowler,Right-handed,Right Arm Medium,Indian,10/11/2002
+12,Shivam Dube,CSK,N,N,N,All-rounder,Left-handed,Medium Seam,Indian,26/06/1993
+13,Deepak Chahar,CSK,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,07/08/1992
+14,Maheesh Theekshana,CSK,N,N,Y,Bowler,Right-handed,Right Arm Off Break Medium,Sri Lankan,01/08/2000
+15,Mukesh Choudhary,CSK,N,N,N,Bowler,Left-handed,Left Arm Medium,Indian,06/07/1996
+16,Prashant Solanki,CSK,N,N,N,Bowler,Right-handed,Legbreak,Indian,15/10/1992
+17,Simarjeet Singh,CSK,N,N,N,Bowler,Right-handed,Right-arm Fast-medium,Indian,17/01/1998
+18,Ajinkya Rahane,CSK,N,N,N,Batter,Right-handed,Right-arm Medium,Indian,06/06/1988
+19,Tushar Deshpande,CSK,N,N,N,Bowler,Left-handed,Right Arm Medium,Indian,15/05/1995
+20,Ben Stokes,CSK,N,N,Y,All-rounder,Left-handed,Right Arm Fast Medium,English,04/06/1991
+21,Matheesha Pathirana,CSK,N,N,Y,Bowler,Right-handed,Right-arm Medium,Sri Lankan,18/12/2002
+22,Shaik Rasheed,CSK,N,N,N,Batter,Right-handed,Right Arm Leg Spin,Indian,24/09/2004
+23,Nishant Sindhu,CSK,N,N,N,All-Rounder,Left-handed,Left Arm Slow Orthodox,Indian,09/04/2004
+24,Kyle Jamieson,CSK,N,N,Y,Bowler,Right-handed,Right Arm Fast,New Zealander,30/12/1994
+25,Ajay Mandal,CSK,N,N,N,All-Rounder,Left-handed,Left Arm Slow Unorthodox,Indian,25/02/1996
+1,Rishabh Pant,DC,N,Y,N,Wicketkeeper Batter,Left-handed,NA,Indian,04/10/1997
+2,David Warner,DC,Y,N,Y,Batter,Left-handed,Right-arm Leg Spin,Australian,27/10/1986
+3,Prithvi Shaw,DC,N,N,N,Batter,Right-handed,NA,Indian,09/11/1999
+4,Rovman Powell,DC,N,N,Y,Batter,Right-handed,NA,West Indian,23/07/1993
+5,Axar Patel,DC,N,N,N,All-rounder,Left-handed,Left-arm Orthodox Spin,Indian,20/01/1994
+6,Kamlesh Nagarkoti,DC,N,N,N,Bowler,Right-handed,Medium Seam,Indian,28/12/1999
+7,Lalit Yadav,DC,N,N,N,All-Rounder,Right-handed,Off Spin,Indian,03/01/1997
+8,Mitchell Marsh,DC,N,N,Y,All-rounder,Right-handed,Right-arm Medium,Australian,20/10/1991
+9,Pravin Dubey,DC,N,N,N,Bowler,Right-handed,Leg Spin,Indian,01/07/1993
+10,Ripal Patel,DC,N,N,N,Batter,Right-handed,Right-arm Fast-medium,Indian,28/09/1995
+11,Sarfaraz Khan,DC,N,N,N,Batter,Right-handed,Legbreak,Indian,22/10/1997
+12,Vicky Ostwal,DC,N,N,N,Bowler,Right-handed,Left-arm Spin,Indian,01/09/2002
+13,Yash Dhull,DC,N,N,N,Batter,Left-handed,Right-arm Offbreak,Indian,11/11/2002
+14,Aman Khan,DC,N,N,N,Batsman,Right-handed,Right-arm Medium,Indian,23/11/1996
+15,Anrich Nortje,DC,N,N,Y,Bowler,Right-handed,Fast Seam,South African,16/11/1993
+16,Chetan Sakariya,DC,N,N,N,Bowler,Left-handed,Fast Seam,Indian,28/02/1998
+17,Kuldeep Yadav,DC,N,N,N,Bowler,Left-handed,Left-arm Orthodox Spin,Indian,14/12/1994
+18,Lungi Ngidi,DC,N,N,Y,Bowler,Right-handed,Fast Seam,South African,29/03/1996
+19,Mustafizur Rahman,DC,N,N,Y,Bowler,Left-handed,Fast Seam,Bangladeshi,06/09/1995
+20,Khaleel Ahmed,DC,N,N,N,Bowler,Right-handed,Left-arm Medium Pace,Indian,05/12/1997
+21,Phil Salt,DC,N,N,Y,Wicketkeeper,Right-handed,NA,England,28/08/1996
+22,Ishant Sharma,DC,N,N,N,Bowler,Right-handed,Right-arm Medium Fast,Indian,02/09/1988
+23,Mukesh Kumar,DC,N,N,N,Bowler,Right-handed,Right Arm Fast Medium,Indian,12/10/1993
+24,Manish Pandey,DC,N,N,N,Batter,Right-handed,Right-arm Off-spin,Indian,10/09/1989
+25,Rilee Rossouw,DC,N,N,Y,Batter,Left-handed,Right-arm Off-spin,South African,09/10/1989
+1,Hardik Pandya,GT,Y,N,N,All-rounder,Right-handed,Right-arm Medium Fast,Indian,11/10/1993
+2,Abhinav Manohar,GT,N,N,N,Batter,Right-handed,Right Arm Leg Break Medium,Indian,16/09/1994
+3,David Miller,GT,N,N,Y,Batter,Left-handed,Right-arm Off-spin,South African,10/06/1989
+4,Shubman Gill,GT,N,N,N,Batter,Right-handed,NA,Indian,08/09/1999
+5,Matthew Wade,GT,N,N,Y,Wicket-Keeper,Left-handed,NA,Australian,26/12/1987
+6,Wriddhiman Saha,GT,N,Y,N,Wicketkeeper Batter,Right-handed,NA,Indian,24/10/1984
+7,B Sai Sudharsan,GT,N,N,N,All Rounder,Left-handed,Right Arm Leg Break Medium,Indian,15/10/2001
+8,Darshan Nalkande,GT,N,N,N,All Rounder,Right-handed,Right Arm Fast,Indian,04/10/1998
+9,Jayant Yadav,GT,N,N,N,Bowler,Right-handed,Right-arm Off-spin,Indian,22/01/1990
+10,Pradeep Sangwan,GT,N,N,N,Bowler,Right-handed,Left-arm Medium Fast,Indian,05/11/1990
+11,Rahul Tewatia,GT,N,N,N,Bowler,Left-handed,Right-arm Leg Spin,Indian,20/05/1993
+12,Shivam Mavi,GT,N,N,N,Bowler,Right-handed,Right-arm Fast Medium,Indian,26/11/1998
+13,Vijay Shankar,GT,N,N,N,All-rounder,Right-handed,Right-arm Offbreak,Indian,26/01/1991
+14,Alzarri Joseph,GT,N,N,Y,Bowler,Right-handed,Right-arm Fast-medium,West Indian,20/11/1996
+15,Mohammad Shami,GT,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,03/09/1990
+16,Noor Ahmad,GT,N,N,Y,Bowler,Left-handed,Left-arm Wrist Spin,Afghan,15/08/2000
+17,Sai Kishore,GT,N,N,N,Bowler,Left-handed,Left Arm Orthodox,Indian,06/11/1996
+18,Rashid Khan,GT,N,N,Y,Bowler,Right-handed,Legbreak Googly,Afghan,20/09/1998
+19,Yash Dayal,GT,N,N,N,Bowler,Left-handed,Left Arm Medium,Indian,13/12/1997
+20,Kane Williamson,GT,N,N,Y,Batter,Right-handed,Right-arm Off-spin,New Zealander,08/08/1990
+21,Joshua Little,GT,N,N,Y,Bowler,Right-handed,Left Arm Fast,Ireland,01/11/1999
+22,Odean Smith,GT,N,N,Y,All-rounder,Right-handed,Right-arm Medium Fast,West Indian,01/11/1996
+23,Urvil Patel,GT,N,N,N,Wicketkeeper,Right-handed,NA,Indian,17/10/1998
+24,K S Bharat,GT,N,N,N,Wicketkeeper Batter,Right-handed,NA,Indian,03/10/1993
+25,Mohit Sharma,GT,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,19/12/1991
+1,Shreyas Iyer,KKR,N,N,N,Batter,Right-handed,Right-arm Off-break,Indian,06/12/1994
+2,Rinku Singh,KKR,N,N,N,Batter,Left-handed,Right-arm Offbreak,Indian,12/10/1997
+3,Rahmanullah Gurbaz,KKR,N,N,Y,Batter,Right-handed,NA,Afghan,28/11/2001
+4,David Wiese,KKR,N,N,Y,All-rounder,Right-handed,Right-arm Medium-fast,South African,18/05/1985
+5,Kulwant Khejroliya,KKR,N,N,N,Bowler,Left-handed,Bowler,Indian,02/03/1995
+6,Suyash Sharma,KKR,N,N,N,Bowler,Right-handed,Right Arm Leg Spin,Indian,15/05/2003
+7,Nitish Rana,KKR,Y,Y,N,Batter,Left-handed,Right-arm Off-break,Indian,27/12/1993
+8,Anukul Roy,KKR,N,N,N,Batting Allrounder,Left-handed,Left-arm Orthodox,Indian,30/11/1998
+9,Lockie Ferguson,KKR,N,N,Y,Bowler,Right-handed,Right Arm Fast,New Zealander,13/06/1991
+10,Andre Russell,KKR,N,N,Y,All-rounder,Right-handed,Right-arm Fast,West Indian,29/04/1988
+11,Venkatesh Iyer,KKR,N,N,N,All-rounder,Left-handed,Right-arm Medium,Indian,25/12/1994
+12,Umesh Yadav,KKR,N,N,N,Bowler,Right-handed,Right-arm Medium Fast,Indian,25/10/1987
+13,Harshit Rana,KKR,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,17/03/2001
+14,Tim Southee,KKR,N,N,Y,Bowler,Right-handed,Right-arm Medium Fast,New Zealander,11/12/1988
+15,Shardul Thakur,KKR,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,16/10/1991
+16,Sunil Narine,KKR,N,N,Y,Bowler,Left-handed,Right-arm Off-spin,West Indian,26/05/1988
+17,Vaibhav Arora,KKR,N,N,N,Bowler,Right-handed,Fast Seam,Indian,14/12/1997
+18,Varun Chakaravarthy,KKR,N,N,N,Bowler,Right-handed,Right Arm Legbreak,Indian,29/08/1991
+19,Narayan Jagadeesan,KKR,N,N,N,Wicketkeeper Batter,Right-handed,NA,Indian,24/12/1995
+20,Litton Das,KKR,N,N,Y,Wicketkeeper,Right-handed,NA,Bangladesh,13/10/1994
+21,Mandeep Singh,KKR,N,N,N,Batter,Right-handed,Right-arm Medium,Indian,18/12/1991
+22,Shakib Al Hasan,KKR,N,N,Y,All-rounder,Left-handed,Left-arm Orthodox Spin,Bangladeshi,24/03/1987
+1,KL Rahul,LSG,Y,N,N,Wicketkeeper Batter,Right-handed,NA,Indian,18/04/1992
+2,Manan Vohra,LSG,N,N,N,Batter,Right-handed,Right-arm Medium,Indian,18/07/1993
+3,Quinton de Kock,LSG,N,Y,Y,Wicketkeeper Batter,Left-handed,NA,South African,17/12/1992
+4,Ayush Badoni,LSG,N,N,N,Bowling Allrounder,Right-handed,Right-arm Offbreak,Indian,03/12/1999
+5,Deepak Hooda,LSG,N,N,N,Bowling All-rounder,Right-handed,Right-arm Off-spin,Indian,19/04/1995
+6,Krishnappa Gowtham,LSG,N,N,N,Bowling Allrounder,Right-handed,Off Spin,Indian,20/10/1988
+7,Karan Sharma,LSG,N,N,N,Batting Allrounder,Right-handed,Off Spin,Indian,04/09/2000
+8,Krunal Pandya,LSG,N,N,N,All-rounder,Left-handed,Left-arm Orthodox,Indian,24/03/1991
+9,Kyle Mayers,LSG,N,N,Y,All Rounder,Left-handed,Right-arm Medium,West Indian,08/09/1992
+10,Marcus Stoinis,LSG,N,N,Y,All-rounder,Right-handed,Right-arm Medium-fast,Australian,16/08/1989
+11,Avesh Khan,LSG,N,N,N,Bowler,Right-handed,Fast Seam,Indian,13/12/1996
+12,Mark Wood,LSG,N,N,Y,Bowler,Right-handed,Right Arm Fast,English,11/01/1990
+13,Mayank Yadav,LSG,N,N,N,Bowler,Right-handed,Right-arm Medium Fast,Indian,17/06/2002
+14,Mohsin Khan,LSG,N,N,N,Bowler,Left-handed,Fast Seam,Indian,15/07/1998
+15,Ravi Bishnoi,LSG,N,N,N,Bowler,Right-handed,Leg Spin,Indian,05/09/2000
+16,Jaydev Unadkat,LSG,N,N,N,Bowler,Right-handed,Left-arm Medium Fast,Indian,18/10/1991
+17,Yash Thakur,LSG,N,N,N,Bowler,Right-handed,Right Arm Fast Medium,Indian,28/12/1998
+18,Romario Shepherd,LSG,N,N,Y,All Rounder,Right-handed,Right-arm Fast Medium,West Indian,26/11/1994
+19,Nicholas Pooran,LSG,N,N,Y,Wicketkeeper Batter,Left-handed,NA,West Indian,02/10/1995
+20,Amit Mishra,LSG,N,N,N,Bowler,Right-handed,Right-arm Leg Spin,Indian,24/11/1982
+21,Daniel Sams,LSG,N,N,Y,All-rounder,Right-handed,Left Arm Medium,Australian,27/10/1992
+22,Swapnil Singh,LSG,N,N,N,Bowling all-rounder,Right-handed,Left-arm Spin,Indian,22/01/1991
+23,Prerak Mankad,LSG,N,N,N,All-rounder,Right-handed,Right-arm Medium,Indian,23/04/1994
+24,Naveen Ul Haq,LSG,N,N,Y,Bowler,Right-handed,Right Arm Fast Medium,Afghanistan,23/09/1999
+25,Yudhvir Singh,LSG,N,N,N,All-rounder,Right-handed,NA,Indian,13/09/1997
+1,Rohit Sharma,MI,Y,N,N,Batter,Right-handed,Right-arm Off-spin,Indian,30/04/1987
+2,Dewald Brevis,MI,N,N,Y,Batter,Left-handed,Leg Spin,South African,29/04/2003
+3,Suryakumar Yadav,MI,N,N,N,Batter,Right-handed,Right-arm Medium,Indian,14/09/1990
+4,Ishan Kishan,MI,N,Y,N,Wicketkeeper Batter,Left-handed,NA,Indian,18/07/1998
+5,Arjun Tendulkar,MI,N,N,N,All-rounder,Left-handed,Medium-seam,Indian,24/09/1999
+6,Hrithik Shokeen,MI,N,N,N,Bowler,Right-handed,Right Arm Off Break,Indian,14/08/2000
+7,Jofra Archer,MI,N,N,Y,All-rounder,Right-handed,Fast Seam,English,01/04/1995
+8,Mohd Arshad Khan,MI,N,N,N,All Rounder,Left-handed,Left Arm Medium,Indian,20/12/1997
+9,N Tilak Varma,MI,N,N,N,Batter,Left-handed,Right Arm Off Break,Indian,08/11/2002
+10,Ramandeep Singh,MI,N,N,N,Batter,Right-handed,Right Arm Medium,Indian,28/03/1998
+11,Tim David,MI,N,N,Y,Batter,Right-handed,Right-arm Medium,Singaporean,16/03/1996
+12,Jasprit Bumrah,MI,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,06/12/1993
+13,Cameron Green,MI,N,N,Y,All-Rounder,Right-handed,Right Arm Fast,Australia,03/06/1999
+14,Jhye Richardson,MI,N,N,Y,Bowler,Right-handed,NA,Australian,20/09/1996
+15,Kumar Kartikeya Singh,MI,N,N,N,Bowler,Right-handed,Left Arm Orthodox,Indian,26/12/1997
+16,Tristan Stubbs,MI,N,N,Y,Wicketkeeper Batter,Right-handed,Right Arm Offbreak,South African,14/08/2000
+17,Piyush Chawla,MI,N,N,N,Bowler,Left-handed,Right-arm Leg Spin,Indian,24/12/1988
+18,Akash Madhwal,MI,N,N,N,Bowler,Right-handed,Right Arm Fast Medium,Indian,25/11/1993
+19,Shams Mulani,MI,N,N,N,All-Rounder,Left-handed,Left Arm Slow Orthodox,Indian,13/03/1997
+20,Jason Behrendorff,MI,N,N,Y,Bowler,Right-handed,Left-arm Fast-medium,Australian,20/04/1990
+21,Nehal Wadhera,MI,N,N,N,All-Rounder,Left-handed,Right Arm Leg Spin,Indian,04/09/2000
+22,Vishnu Vinod,MI,N,N,N,Wicketkeeper Batter,Right-handed,NA,Indian,02/12/1993
+23,Raghav Goyal,MI,N,N,N,Bowler,Left-handed,Left Arm Slow Orthodox,Indian,20/06/2001
+24,Duan Jansen,MI,N,N,Y,All-Rounder,Right-handed,Left Arm Fast,South Africa,01/05/2000
+1,Shikhar Dhawan,PBKS,Y,N,N,Batter,Left-handed,NA,Indian,05/12/1985
+2,Bhanuka Rajapaksa,PBKS,N,N,Y,Batter,Left-handed,Right-arm Medium,Sri Lankan,24/10/1991
+3,Jitesh Sharma,PBKS,N,Y,N,Wicket-keeper,Right-handed,NA,Indian,22/10/1993
+4,Jonny Bairstow,PBKS,N,N,Y,Wicketkeeper Batter,Right-handed,NA,English,26/09/1989
+5,Prabhsimran Singh,PBKS,N,N,N,Wicketkeeper Batter,Right-handed,NA,Indian,10/08/2000
+6,Atharva Taide,PBKS,N,N,N,All-rounder,Left-handed,Left-arm Spin,Indian,26/04/2000
+7,Harpreet Brar,PBKS,N,N,N,Bowler,Left-handed,Orthodox,Indian,16/09/1995
+8,Liam Livingstone,PBKS,N,N,Y,Batter,Right-handed,Leg Spin,English,04/08/1993
+9,Raj Angad Bawa,PBKS,N,N,N,All-rounder,Left-handed,Right-arm Medium Fast,Indian,12/11/2002
+10,Rishi Dhawan,PBKS,N,N,N,All-rounder,Right-handed,Right-arm Medium Fast,Indian,19/02/1990
+11,Shahrukh Khan,PBKS,N,N,N,Batter,Right-handed,NA,Indian,27/05/1995
+12,Arshdeep Singh,PBKS,N,N,N,Bowler,Left-handed,Left Arm Fast-medium,Indian,05/02/1999
+13,Baltej Dhanda,PBKS,N,N,N,Bowler,Right-handed,Right-arm Medium Fast,Indian,04/11/1990
+14,Kagiso Rabada,PBKS,N,N,Y,Bowler,Left-handed,Fast Seam,South African,25/05/1995
+15,Nathan Ellis,PBKS,N,N,Y,Bowler,Right-handed,Fast Seam,Australian,22/09/1994
+16,Rahul Chahar,PBKS,N,N,N,Bowler,Right-handed,Leg Spin,Indian,04/08/1999
+17,Sam Curran,PBKS,N,N,Y,All-rounder,Left-handed,Left Arm Fast Medium,English,03/06/1998
+18,Sikandar Raza,PBKS,N,N,Y,All-Rounder,Right-handed,Right Arm Off Spin,Zimbabwe,24/04/1986
+19,Harpreet Bhatia,PBKS,N,N,N,Batter,Left-handed,Right Arm Medium,Indian,11/08/1991
+20,Vidwath Kaverappa,PBKS,N,N,N,Bowler,Right-handed,Right Arm Fast Medium,Indian,25/02/1999
+21,Mohit Rathee,PBKS,N,N,N,All-Rounder,Right-handed,Right Arm Leg Spin,Indian,13/01/1999
+22,Shivam singh,PBKS,N,N,N,All- rounder,Right-handed,Right Arm Off Spin,Indian,21/06/1995
+1,Faf du Plessis,RCB,Y,N,Y,Batter,Right-handed,Right-arm Leg Spin,South African,13/07/1984
+2,Finn Allen,RCB,N,N,Y,Wicketkeeper Batter,Right-handed,NA,New Zealander,22/04/1999
+3,Rajat Patidar,RCB,N,N,N,Batter,Right-handed,NA,Indian,01/06/1993
+4,Virat Kohli,RCB,N,N,N,Batter,Right-handed,Right-arm Medium,Indian,05/11/1988
+5,Anuj Rawat,RCB,N,N,N,Wicketkeeper Batter,Left-handed,NA,Indian,17/10/1999
+6,Dinesh Karthik,RCB,N,Y,N,Wicketkeeper Batter,Right-handed,NA,Indian,01/06/1985
+7,David Willey,RCB,N,N,Y,Bowling Allrounder,Left-handed,Left-arm Fast-medium,English,28/02/1990
+8,Glenn Maxwell,RCB,N,N,Y,All-rounder,Right-handed,Right-arm Off-spin,Australian,14/10/1988
+9,Harshal Patel,RCB,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,23/11/1990
+10,Mahipal Lomror,RCB,N,N,N,All-rounder,Left-handed,Left-arm Spin,Indian,16/11/1999
+11,Shahbaz Ahamad,RCB,N,N,N,Bowler,Left-handed,Slow Left Arm Orthodox,Indian,11/12/1994
+12,Suyash S Prabhudessai,RCB,N,N,N,Batter,Right-handed,NA,Indian,06/09/1997
+13,Wanindu Hasaranga,RCB,N,N,Y,All-rounder,Right-handed,Right-arm Legbreak,Sri Lankan,29/07/1997
+14,Akash Deep,RCB,N,N,N,Bowler,Right-handed,Right-arm Medium,Indian,15/12/1996
+15,Josh Hazlewood,RCB,N,N,Y,Bowler,Left-handed,Right-arm Fast-medium,Australian,08/01/1991
+16,Karn Sharma,RCB,N,N,N,All-rounder,Left-handed,Right-arm Leg Spin,Indian,23/10/1987
+17,Siddharth Kaul,RCB,N,N,N,Bowler,Right-handed,Right-arm Medium Fast,Indian,19/05/1990
+18,Mohammed Siraj,RCB,N,N,N,Bowler,Right-handed,Medium Seam,Indian,13/03/1994
+19,Reece Topley,RCB,N,N,Y,Bowler,Right-handed,Left Arm Fast,England,21/02/1994
+20,Himanshu Sharma,RCB,N,N,N,Bowler,Right-handed,Right Arm Leg Spin,Indian,06/06/1998
+21,Will Jacks,RCB,N,N,Y,Batter,Right-handed,Right Arm Off Spin,England,21/11/1998
+22,Rajan Kumar,RCB,N,N,N,Bowler,Left-handed,Left Arm Fast,Indian,08/07/1996
+23,Avinash Singh,RCB,N,N,N,Bowler,Right-handed,Right Arm Fast,Indian,05/07/1998
+24,Sonu Yadav,RCB,N,N,N,All-Rounder,Right-handed,Right Arm Fast Medium,Indian,11/11/1999
+25,Manoj Bhandage,RCB,N,N,N,All-Rounder,Left-handed,Right Arm Fast Medium,Indian,05/10/1998
+1,Sanju Samson,RR,Y,Y,N,Wicketkeeper Batter,Right-handed,NA,Indian,11/11/1994
+2,Devdutt Padikkal,RR,N,N,N,Batter,Left-handed,Right-arm Offbreak,Indian,07/07/2000
+3,Jos Buttler,RR,N,N,Y,Wicketkeeper Batter,Right-handed,NA,English,08/09/1990
+4,Shimron Hetmyer,RR,N,N,Y,Batter,Left-handed,NA,West Indian,26/12/1996
+5,Yashasvi Jaiswal,RR,N,N,N,Batter,Left-handed,NA,Indian,28/12/2001
+6,Dhruv Jurel,RR,N,N,N,Wicket-keeper,Right-handed,NA,Indian,21/01/2001
+7,Ravichandran Ashwin,RR,N,N,N,Bowling All-rounder,Right-handed,Right-arm Off-spin,Indian,17/09/1986
+8,Riyan Parag,RR,N,N,N,Batter,Right-handed,Right-arm Legbreak,Indian,10/11/2001
+9,KC Cariappa,RR,N,N,N,Bowler,Right-handed,Leg-break,Indian,13/04/1994
+10,Kuldeep Sen,RR,N,N,N,Bowler,Right-handed,Right-arm Fast-medium,Indian,22/10/1996
+11,Kuldip Yadav,RR,N,N,N,Bowler,Left-handed,Left Arm Medium,Indian,15/10/1996
+12,Navdeep Saini,RR,N,N,N,Bowler,Right-handed,Right Arm Fast,Indian,23/11/1992
+13,Obed McCoy,RR,N,N,Y,Bowler,Left-handed,Left Arm Fast,West Indian,04/01/1997
+14,KM Asif,RR,N,N,N,Bowler,Right-handed,Medium Seam,Indian,24/07/1993
+15,Prasidh Krishna,RR,N,N,N,Bowler,Right-handed,Medium Seam,Indian,19/02/1996
+16,Trent Boult,RR,N,N,Y,Bowler,Right-handed,Left-arm Fast-medium,New Zealander,22/07/1989
+17,Murugan Ashwin,RR,N,N,N,Bowler,Right-handed,Leg-break,Indian,08/09/1990
+18,Yuzvendra Chahal,RR,N,N,N,Bowler,Right-handed,Right-arm Leg Spin,Indian,23/07/1990
+19,Jason Holder,RR,N,N,Y,All-rounder,Right-handed,Right-arm Medium Fast,West Indian,05/11/1991
+20,Akash Vashisht,RR,N,N,N,All-Rounder,Left-handed,Left Arm Slow Orthodox,Indian,17/12/1994
+21,Kunal Rathore,RR,N,N,N,Wicketkeeper,Left-handed,NA,Indian,09/10/2002
+22,Donovan Ferreira,RR,N,N,Y,Wicketkeeper,Right-handed,NA,South Africa,21/07/1998
+23,Adam Zampa,RR,N,N,Y,Bowler,Right-handed,Legbreak Googly,Australian,31/03/1992
+24,Abdul P A,RR,N,N,N,All-Rounder,Right-handed,Right Arm Off Spin,Indian,09/10/1998
+25,Joe Root,RR,N,N,Y,Batter,Right-handed,Right Arm Off Spin,England,30/12/1990
+1,Mayank Agarwal,SRH,N,N,N,Batter,Right-handed,Right Arm Off Spin,Indian,18/02/1991
+2,Aiden Markram,SRH,N,N,Y,Batter,Right-handed,Right-arm Offbreak,South African,04/10/1994
+3,Rahul Tripathi,SRH,N,Y,N,Batter,Right-handed,NA,Indian,02/03/1991
+4,Glenn Phillips,SRH,N,N,Y,Wicketkeeper Batter,Right-handed,Right-arm Offbreak,New Zealander,06/12/1996
+5,Abhishek Sharma,SRH,N,N,N,All-rounder,Left-handed,Left-arm Orthodox,Indian,04/09/2000
+6,Marco Jansen,SRH,N,N,Y,All-rounder,Right-handed,Left-arm Fast Medium,South African,01/05/2000
+7,Washington Sundar,SRH,N,N,N,All-rounder,Left-handed,Right Arm Offbreak,Indian,05/10/1999
+8,Bhuvneshwar Kumar,SRH,Y,N,N,Bowler,Right-handed,Right-arm Medium,Indian,05/02/1990
+9,Fazalhaq Farooqi,SRH,N,N,Y,Bowler,Right-handed,Left-arm Fast Medium,Afghan,22/09/2000
+10,Kartik Tyagi,SRH,N,N,N,Bowler,Right-handed,Right-arm Fast-medium,Indian,08/11/2000
+11,T Natarajan,SRH,N,N,N,Bowler,Left-handed,Left-arm Fast-medium,Indian,27/05/1991
+12,Umran Malik,SRH,N,N,N,Bowler,Right-handed,Right-arm Fast,Indian,22/11/1999
+13,Harry Brook,SRH,N,N,Y,Batter,Right-handed,Right Arm Medium,England,22/02/1999
+14,Abdul Samad,SRH,N,N,N,Batter,Right-handed,Right-arm Legbreak,Indian,28/10/2001
+15,Akeal Hosein,SRH,N,N,Y,Bowler,Left-handed,Left Arm Slow Orthodox,West Indies,25/04/1993
+16,Heinrich Klaasen,SRH,N,N,Y,Wicketkeeper Batter,Right-handed,NA,South African,30/07/1991
+17,Anmolpreet Singh,SRH,N,N,N,Batter,Right-handed,Right-arm Offbreak,Indian,28/03/1998
+18,Adil Rashid,SRH,N,N,Y,Bowler,Right-handed,Right Arm Leg Spin,English,17/02/1988
+19,Mayank Markande,SRH,N,N,N,Bowler,Right-handed,Leg Spin,Indian,11/11/1997
+20,Vivrant Sharma,SRH,N,N,N,All-Rounder,Left-handed,Right Arm Leg Spin,Indian,30/10/1999
+21,Mayank Dagar,SRH,N,N,N,All-rounder,Right-handed,NA,Indian,11/11/1996
+22,Samarth Vyas,SRH,N,N,N,All-Rounder,Right-handed,Right Arm Leg Spin,Indian,28/11/1995
+23,Sanvir Singh,SRH,N,N,N,All-Rounder,Right-handed,Right Arm Fast,Indian,12/10/1996
+24,Upendra Singh Yadav,SRH,N,N,N,Wicketkeeper,Right-handed,NA,Indian,08/10/1996
+25,Nitish Kumar Reddy,SRH,N,N,N,Wicketkeeper,Right-handed,Right Arm Fast Medium,Indian,26/05/2003
